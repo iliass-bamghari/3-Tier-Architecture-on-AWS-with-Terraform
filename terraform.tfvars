@@ -4,10 +4,6 @@
 
 region = "eu-north-1"
 
-# username = "AKIA3D67KBIJ23VE7ZF2"
-
-# password = "dMmE9krK5sdWVSWT7LsU0YwC5L8rXupDjPwadP1r"
-
 instance_type = "t3.micro"
 
 #ubuntu ami ami = "ami-0fe8bec493a81c7da"
